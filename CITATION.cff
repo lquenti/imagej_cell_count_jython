@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "imagej_cell_count_jython"
+authors:
+  - family-names: "Frahnert"
+    given-names: "Klara Henrike"
+    orcid: ""
+  - family-names: "Quentin"
+    given-names: "Lars"
+    orcid: ""
+version: 1.0
+doi: ""
+date-released: 2024-08-05
+url: "https://github.com/lquenti/imagej_cell_count_jython"
